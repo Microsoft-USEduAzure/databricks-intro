@@ -22,3 +22,27 @@ Keep in mind that our objective is **just** to familiarize ourselves, not to go 
     
 
 ## Batch Machine Learning
+1. Follow the instructions in the [pre-compiled lab](Databricks_Labs\Lab_4_Introduction_to_Machine_Learning.pdf)
+2. Be sure to swap out the variables in the storage accounts. 
+
+    TIP: **https://(blob container name)@(storage account name).blob.core.windows.net/(first folder)/path of the file.txt** is the correct syntax
+
+
+# Summary
+That should give you a taste of all 3 modalities in Databricks
+1. Batch (Big Data) Analysis
+2. Real-Time Analysis
+3. Machine Learning (batch or real-time)
+
+
+The PowerPoint I used today is [located here](Dbrix_intro.pptx)
+
+Cheers!
+<br>
+
+
+[Joey Brakefield](https://linkedin.com/in/joeybrakefield)
+<br>
+Email: joey.brakefield@microsoft.com
+<br> Twitter: @kfprugger <br>
+GitHub: http://github.com/kfprugger
