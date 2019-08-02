@@ -37,10 +37,11 @@ That should give you a taste of all 3 modalities in Databricks
 
 The PowerPoint I used today is [located here](Dbrix_intro.pptx)
 
+
 Cheers!
 <br>
 
-
+_______
 [Joey Brakefield](https://linkedin.com/in/joeybrakefield)
 <br>
 Email: joey.brakefield@microsoft.com
